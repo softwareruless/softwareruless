@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yusufbozkurt2022@gmail.com**
 
-- ⚡ Fun fact **I am funny driving**
+- ⚡ **I am funny driving and racing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
