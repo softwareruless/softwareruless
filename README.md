@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am full-stack developer</h3>
 
+- 💬 Ask me about **.Net Core, React, SQL**
+
 - 🌱 I’m currently learning **node.js**
 
 - 👨‍💻 All of my projects are available at [alyusdigital.com](alyusdigital.com)
-
-- 💬 Ask me about **.Net Core, React, SQL**
 
 - 📫 How to reach me **yusufbozkurt2022@gmail.com**
 
