@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am full-stack developer</h3>
 
-- 💬 Ask me about **.Net Core, React, SQL**
+- 👯 I’m looking to collaborate on **.Net Core, React, SQL**
 
 - 🌱 I’m currently learning **node.js**
 
