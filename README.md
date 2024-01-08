@@ -12,7 +12,7 @@
 - ⚡ **I am funny driving and racing**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTMXKNGkTXhvTSSBQlVcZjChzPJwhjzXwpxCcpmKSSPnjlJzqGQTRGsRdNMJGTXVvJTKPg" target="blank" rel="noreferrer"> <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="Gmail" width="40" height="40"/> </a> 
+<p align="left"><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTMXKNGkTXhvTSSBQlVcZjChzPJwhjzXwpxCcpmKSSPnjlJzqGQTRGsRdNMJGTXVvJTKPg" target="blank" rel="noreferrer"> <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="Gmail" width="100" height="40"/> </a> 
   
 </p>
 
