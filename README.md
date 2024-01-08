@@ -12,7 +12,8 @@
 - ⚡ **I am funny driving and racing**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTMXKNGkTXhvTSSBQlVcZjChzPJwhjzXwpxCcpmKSSPnjlJzqGQTRGsRdNMJGTXVvJTKPg" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png)" alt="arduino" width="40" height="40"/> </a> 
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
