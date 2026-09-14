@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [alyusdigital.com](https://alyusdigital.com/cases.html)
+- 👨‍💻 All of my projects are available at [yusufbozkurt.com](https://yusufbozkurt.com)
 
 - 📫 How to reach me **yusufbozkurt2022@gmail.com**
 
